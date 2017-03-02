@@ -41,4 +41,5 @@ public interface HttpCacheDao {
      * @return
      */
     public int deleteAllHttpResponse();
+
 }
